@@ -54,16 +54,17 @@
 
 ## 🚀 Featured Projects
 
-**[Portfolio](https://github.com/BernatDeveloper/portfolio)** &nbsp;·&nbsp; `React`
-My personal portfolio, showcasing my projects and skills. Live at [bernatfont.dev](https://www.bernatfont.dev/).
+**[GymTracker](https://github.com/BernatDeveloper/GymTracker)** &nbsp;·&nbsp; `TypeScript`
+App to log workouts, routines and track training progress over time.
+
+**[eventos-app](https://github.com/BernatDeveloper/eventos-app)** &nbsp;·&nbsp; `TypeScript`
+Web app to create, browse and manage events.
 
 **[Todo React + Laravel](https://github.com/BernatDeveloper/Todo_React_Laravel)** &nbsp;·&nbsp; `React` `Laravel` `MySQL`
 Full-stack task manager with a React frontend and a Laravel REST API backend.
 
-**[Cafemat](https://github.com/BernatDeveloper/Cafemat)** &nbsp;·&nbsp; `PHP` `MySQL`
-Café/bar management app built as a hands-on project to practice backend logic and data handling.
-
-> 📌 Pin these repositories on your profile so they show up first.
+**[Portfolio](https://github.com/BernatDeveloper/portfolio)** &nbsp;·&nbsp; `React`
+My personal portfolio, live at [bernatfont.dev](https://www.bernatfont.dev/).
 
 <br>
 
