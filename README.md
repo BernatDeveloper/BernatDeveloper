@@ -52,11 +52,18 @@
 
 <br>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=BernatDeveloper&theme=react&show_icons=true&include_all_commits=true" alt="Bernat's GitHub stats">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernatDeveloper&theme=react&layout=compact" alt="Top languages">
-</p>
+## 🚀 Featured Projects
+
+**[Portfolio](https://github.com/BernatDeveloper/portfolio)** &nbsp;·&nbsp; `React`
+My personal portfolio, showcasing my projects and skills. Live at [bernatfont.dev](https://www.bernatfont.dev/).
+
+**[Todo React + Laravel](https://github.com/BernatDeveloper/Todo_React_Laravel)** &nbsp;·&nbsp; `React` `Laravel` `MySQL`
+Full-stack task manager with a React frontend and a Laravel REST API backend.
+
+**[Cafemat](https://github.com/BernatDeveloper/Cafemat)** &nbsp;·&nbsp; `PHP` `MySQL`
+Café/bar management app built as a hands-on project to practice backend logic and data handling.
+
+> 📌 Pin these repositories on your profile so they show up first.
 
 <br>
 
